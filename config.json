@@ -1,0 +1,12 @@
+{
+  "board_name": "STM32F407 Discovery",
+  "peripherals": [
+    "GPIO - LEDs & Buttons",
+    "USART2 - Serial Debug",
+    "SPI1 - External Flash",
+    "I2C1 - Accelerometer",
+    "ADC1 - Analog Sensors",
+    "TIM2 - PWM Output",
+    "USB OTG - Full Speed"
+  ]
+}
